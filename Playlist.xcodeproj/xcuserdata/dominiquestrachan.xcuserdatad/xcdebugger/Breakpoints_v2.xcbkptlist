@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF342D81-69A4-4C8D-9583-A1A8D700581A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E4E4D1D-1812-443F-B5A1-FEB3B0DCEDFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Playlist/View Controller/SongTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "SongTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3E4E4D1D-1812-443F-B5A1-FEB3B0DCEDFE - 21cd999267dea3b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Playlist.SongTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; Playlist.SongTableViewController"
+                  moduleName = "Playlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominiquestrachan/Desktop/devmountain/Specializations/Unit_2/Playlist/Playlist/View%20Controller/SongTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "3E4E4D1D-1812-443F-B5A1-FEB3B0DCEDFE - 38345d0869bd5ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Playlist.SongTableViewController.init(style: __C.UITableViewStyle) -&gt; Playlist.SongTableViewController"
+                  moduleName = "Playlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominiquestrachan/Desktop/devmountain/Specializations/Unit_2/Playlist/Playlist/View%20Controller/SongTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "3E4E4D1D-1812-443F-B5A1-FEB3B0DCEDFE - f4ff38e0bda667b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Playlist.SongTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Playlist.SongTableViewController"
+                  moduleName = "Playlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominiquestrachan/Desktop/devmountain/Specializations/Unit_2/Playlist/Playlist/View%20Controller/SongTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "3E4E4D1D-1812-443F-B5A1-FEB3B0DCEDFE - 31cccfcc8e92cd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Playlist.SongTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Playlist.SongTableViewController"
+                  moduleName = "Playlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominiquestrachan/Desktop/devmountain/Specializations/Unit_2/Playlist/Playlist/View%20Controller/SongTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "3E4E4D1D-1812-443F-B5A1-FEB3B0DCEDFE - 7efd1fd1da05b4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Playlist.SongTableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Playlist.SongTableViewController&gt;"
+                  moduleName = "Playlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominiquestrachan/Desktop/devmountain/Specializations/Unit_2/Playlist/Playlist/View%20Controller/SongTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "3E4E4D1D-1812-443F-B5A1-FEB3B0DCEDFE - 8f9a9349286f798f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Playlist.SongTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Playlist.SongTableViewController&gt;"
+                  moduleName = "Playlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominiquestrachan/Desktop/devmountain/Specializations/Unit_2/Playlist/Playlist/View%20Controller/SongTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "3E4E4D1D-1812-443F-B5A1-FEB3B0DCEDFE - ce13ecd120ec3fa5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Playlist.SongTableViewController.__deallocating_deinit"
+                  moduleName = "Playlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominiquestrachan/Desktop/devmountain/Specializations/Unit_2/Playlist/Playlist/View%20Controller/SongTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60130BBD-9926-4A9B-A15B-7493DA11A324"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Playlist/View Controller/SongTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AE1AEAF-10CD-4201-BE67-66FFE67BBC2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Playlist/View Controller/SongTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E433F483-7144-4139-959A-CEB9C7546ED3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Playlist/Model Controller/SongController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "deleteSong(song:playlist:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0938C0ED-EE83-4C67-AFC3-FAEB792178B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Playlist/Model Controller/SongController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "deleteSong(song:playlist:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
